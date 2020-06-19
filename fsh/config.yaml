@@ -1,0 +1,27 @@
+id: au.csiro.fhir.au-primarycare.phase2
+canonical: https://aehrc.com/fhir
+name: PrimaryCarePhase2
+title: Primary Care Phase 2
+status: active
+version: 0.1.0
+license: CC0-1.0
+fhirVersion: 4.0.1
+dependencies:
+  hl7.fhir.au.base: current
+  au.csiro.fhir.au-primarycare: current
+copyrightYear: 2020+
+releaseLabel: Build CI
+publisher:
+  name: CSIRO
+  url: http://aehrc.com
+jurisdiction: urn:iso:std:iso:3166#AU "Australia"
+template: fhir.base.template#0.1.0
+
+menu:
+  Home: index.html
+  Artifacts: artifacts.html
+
+parameters:
+  apply-contact: true
+  apply-jurisdiction: true
+  apply-publisher: true
