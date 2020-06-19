@@ -59,4 +59,4 @@ Title: "AU Primary Care Category Codes"
 
 ValueSet: AUPrimaryCareIssueCategoriesVS
 Title: "AU Primary Care Issue Category Codes"
-* codes from AUPrimaryCareCategoryCS
+* codes from system AUPrimaryCareCategoryCS
